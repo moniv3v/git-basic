@@ -1,5 +1,6 @@
 # Git Basics
 
+
 This practice will help you get comfortable with basic git operations: making changes and publishing them.
 
 We will learn the following git operations:
